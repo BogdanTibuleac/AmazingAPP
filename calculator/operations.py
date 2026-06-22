@@ -24,3 +24,8 @@ def add(first_number, second_number):
 def power(base_number, exponent):
     """Return a number raised to a power."""
     return base_number**exponent
+
+
+def square_root(number):
+    """Return the square root of a number."""
+    return number**0.5
